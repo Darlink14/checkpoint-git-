@@ -1,0 +1,42 @@
+/* body{
+    height: 2000px;
+}
+.flex-container{
+    border-radius: 5px;
+    padding: 12px;
+    background-color: blue;
+    display: flex;
+    gap: 20px;
+    align-items:center;
+
+    flex-wrap: wrap;
+    justify-content: center; 
+   
+    /* position: sticky; */
+
+.flex-items{
+    background: crimson;
+    border: 2px solid #111;
+    padding: 20px;
+    border-radius: 5px; */
+} 
+.flex-container{
+    height: 2000px;
+    border: 1px solid #000;
+}
+/* .flex-items{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 20px;
+} */
+ .flex-items{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+ }
